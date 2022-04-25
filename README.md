@@ -1,6 +1,4 @@
 # PsychologicalEvaluation
-Psychological Evaluation station software.
+Psychological Evaluation software.
 
-DEPLOY:
-1.  Put executable application on android tablet using android studio
-2.  Run application
+Use main.py to launch Emotion recoginition software
